@@ -1,0 +1,13 @@
+{
+  "name": "colorize-image",
+  "version": "1.0.0",
+  "description": "Convert grayscale images to colorized images using apply-colormap",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.5",
+    "parcel-bundler": "^1.12.4"
+  }
+}
